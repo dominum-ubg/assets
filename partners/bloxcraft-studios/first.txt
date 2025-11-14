@@ -1,0 +1,6 @@
+Owner = True
+Partner = True
+SIte = True
+Discord = True
+Image = True
+Enable = True
