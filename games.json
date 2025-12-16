@@ -5669,5 +5669,178 @@
     "url": "{HTML_URL}/635.html",
     "author": " nkrapivin",
     "authorLink": "https://yancharkin.itch.io/spelunky-classic-hd"
+  },
+  {
+    "id": 636,
+    "name": "Friday Night Funkin' D-Sides",
+    "cover": "{COVER_URL}/636.png",
+    "url": "{HTML_URL}/636.html",
+    "author": "d-sides team",
+    "authorLink": "https://gamebanana.com/mods/305122",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 637,
+    "name": "BFDIA 5b",
+    "cover": "{COVER_URL}/637.png",
+    "url": "{HTML_URL}/637-f.html",
+    "author": "Cary Huang",
+    "authorLink": "https://x.com/realCarykh",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 638,
+    "name": "BFDIA 5b: 5*30",
+    "cover": "{COVER_URL}/638.gif",
+    "url": "{HTML_URL}/638-f.html",
+    "author": "Mawilite, Cary Huang",
+    "authorLink": "https://x.com/Mega_Mawilite",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 639,
+    "name": "Friday Night Funkin' VS Impostor B-Sides",
+    "cover": "{COVER_URL}/639.png",
+    "url": "{HTML_URL}/639.html",
+    "author": "Imposter b-sides team",
+    "authorLink": "https://gamebanana.com/mods/504519",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 640,
+    "name": "Mutilate a Doll 2",
+    "cover": "{COVER_URL}/640.png",
+    "url": "{HTML_URL}/640.html",
+    "author": "SilverGames",
+    "authorLink": "https://www.newgrounds.com/portal/view/655001",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 641,
+    "name": "Godzilla Daikaiju Battle Royale",
+    "cover": "{COVER_URL}/641.png",
+    "url": "{HTML_URL}/641.html",
+    "author": "AWM Studio Productions LLC",
+    "authorLink": "https://archive.org/details/gdbr_20210915",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 642,
+    "name": "Friday Night Funkin' Sunday Night Suicide: Rookies Edition",
+    "cover": "{COVER_URL}/642.png",
+    "url": "{HTML_URL}/642.html",
+    "author": "Rookies team",
+    "authorLink": "https://gamebanana.com/mods/503587",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 643,
+    "name": "Rio Rex",
+    "cover": "{COVER_URL}/643.png",
+    "url": "{HTML_URL}/643.html",
+    "author": "Gametornado",
+    "authorLink": "https://store.steampowered.com/app/868830/Rio_Rex/"
+  },
+  {
+    "id": 644,
+    "name": "Friday Night Funkin vs Nonsense",
+    "cover": "{COVER_URL}/644.png",
+    "url": "{HTML_URL}/644.html",
+    "author": "NonsenseNH",
+    "authorLink": "https://www.youtube.com/channel/UCnp4LuZgNt0KwiTMSZN7GIw",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 645,
+    "name": "Arthur's Nightmare",
+    "cover": "{COVER_URL}/645.png",
+    "url": "{HTML_URL}/645.html",
+    "author": "Varun R.",
+    "authorLink": "https://varunramesh.itch.io/arthurs-nightmare",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 646,
+    "name": "Buster Jam",
+    "cover": "{COVER_URL}/646.png",
+    "url": "{HTML_URL}/646-fixed.html",
+    "author": "TALL GLASS",
+    "authorLink": "https://www.tallglassgames.com/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 647,
+    "name": "Super Smash Flash",
+    "cover": "{COVER_URL}/647.png",
+    "url": "{HTML_URL}/647.html",
+    "author": "McLeodGaming",
+    "authorLink": "https://www.mcleodgaming.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 648,
+    "name": "Mindwave",
+    "cover": "{COVER_URL}/648.png",
+    "url": "{HTML_URL}/648-el.html",
+    "author": "HoloHammer",
+    "authorLink": "https://store.steampowered.com/app/2701030/MINDWAVE/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 649,
+    "name": "Look Outside",
+    "cover": "{COVER_URL}/649.png",
+    "url": "{HTML_URL}/649.html",
+    "author": "Francis Coulombe",
+    "authorLink": "https://store.steampowered.com/app/3373660/Look_Outside/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 650,
+    "name": "Milk Inside a Bag of Milk Inside a Bag of Milk",
+    "cover": "{COVER_URL}/650.png",
+    "url": "{HTML_URL}/650.html",
+    "author": "Nikita Kryukov",
+    "authorLink": "https://nikita-kryukov.itch.io/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 651,
+    "name": "Milk Outside A Bag Of Milk Outside A Bag Of Milk",
+    "cover": "{COVER_URL}/651.png",
+    "url": "{HTML_URL}/651.html",
+    "author": "Nikita Kryukov",
+    "authorLink": "https://nikita-kryukov.itch.io/",
+    "special": [
+      "port"
+    ]
   }
 ]
